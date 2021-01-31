@@ -20,7 +20,9 @@ with regards to accessibility, and it has now been re-deployed.
 
 It can be found here
 
-<a href="https://github.com/Rgivens21/Horiseon-Project.git">
+<a href="https://rgivens21.github.io./">
 
+
+<img src="">
 
 
